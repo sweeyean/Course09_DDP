@@ -3,7 +3,8 @@
 This application has been created as a course project for Developing Data Products course. The course project has 2 parts:
 
 1) Creating a web application using Shiny. 
-2) Creating a presentation using either Slidify or RStudio Presenter
+
+2) Creating a presentation using either Slidify or RStudio Presenter.
 
 This github repository has the server.R and ui.R files.
 
